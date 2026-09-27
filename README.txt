@@ -25,5 +25,6 @@ Installation not offered: use HTTPS and a compatible browser, not a file URL. In
 After clearing browser data: restore a backup. There is no remote copy.
 Buttons or saving do not work: allow browser site storage, avoid private mode, and try a current version of Chrome, Edge or Safari.
 
+
 This is a personal fitness organization journal, not medical, health or fitness advice. Workout calories are optional user-entered estimates; the planner does not calculate energy expenditure. No actual photos are stored; photo notes are descriptions.
 For purchase help, contact HarborNestDigital through your Etsy order.
